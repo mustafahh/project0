@@ -1,0 +1,42 @@
+h2
+{
+    color:red;
+    text-align:end;
+}
+h3
+{
+    color: darkgreen;
+    margin: 30px;
+    border: 3px solid black;
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: lighter;
+}
+ol
+{
+    background-color: darkorange;
+}
+ul
+{
+    color: violet;
+}
+.headerclass
+{
+    color: orange;
+    border: solid 3px blue;
+    font-size: large;
+    padding: 10px;
+}
+.name
+{
+    color: blue;
+    border: solid 1px green;
+    font-size: xx-large; 
+    font-weight: bold;
+    padding: 10px;
+}
+#header
+{
+    text-align: center;
+}
