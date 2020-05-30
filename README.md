@@ -9,3 +9,7 @@ This website contains the folowing files:
     contact.html
     project0.scss
     project0.css
+
+Youtube Video Link:
+
+https://youtu.be/x8IrOgj9nSw
